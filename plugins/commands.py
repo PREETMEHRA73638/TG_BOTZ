@@ -56,7 +56,7 @@ async def start(client, message):
                     InlineKeyboardButton('♛ Eᴀʀɴ Mᴏɴᴇʏ ♛', callback_data="shortlink_info")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-            m=await message.reply_text("ᴡᴀɪᴛ...")
+        m=await message.reply_text("ᴡᴀɪᴛ...")
         await asyncio.sleep(1)
         await m.delete()
         m=await message.reply_text("ʙᴏᴛ ɪs sᴛᴀʀᴛᴇᴅ...")
