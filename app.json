@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Kushalhk/TG_BOTZ",
-    "repository": "https://github.com/Kushalhk/TG_BOTZ",
+    "website": "https://github.com/PREETMEHRA73638/TG_BOTZ/tree/stream-feature",
+    "repository": "https://github.com/PREETMEHRA73638/TG_BOTZ/tree/stream-feature",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
